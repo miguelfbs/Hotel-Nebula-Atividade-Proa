@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6a0b5f63d3f290e64a551914"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fba"
+  },
+  "hospede_id": {
+    "$oid": "6a0b3bbcd3f290e64a551912"
+  },
+  "nota": 5,
+  "comentario": "Incrível! A vista para o mar e a banheira de hidromassagem superaram as expectativas.",
+  "data": {
+    "$date": "2026-04-15T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0b686dd3f290e64a551915"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fb9"
+  },
+  "hospede_id": {
+    "$oid": "6a0b3aeed3f290e64a551911"
+  },
+  "nota": 5,
+  "comentario": "Amei a edução de todos os funcionários, voltarei mais vezes com certeza",
+  "data": {
+    "$date": "2026-04-13T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0b686dd3f290e64a551916"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fbb"
+  },
+  "hospede_id": {
+    "$oid": "6a0b3bbcd3f290e64a551913"
+  },
+  "nota": 4,
+  "comentario": "Adorei a experiência, porém achei o preço um pouco salgado.",
+  "data": {
+    "$date": "2026-04-09T09:00:00.000Z"
+  }
+}]

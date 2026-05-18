@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6a0b3f400c0486129e3a2fbc"
+  },
+  "hospede": {
+    "hospede_id": {
+      "$oid": "6a0b3aeed3f290e64a551910"
+    },
+    "nome": "Miguel Bueno",
+    "email": "miguel.bueno@email.com"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fbb"
+  },
+  "data_checkin": {
+    "$date": "2026-04-10T14:00:00.000Z"
+  },
+  "data_checkout": {
+    "$date": "2026-04-15T12:00:00.000Z"
+  },
+  "status": "finalizada",
+  "valor_total_diarias": 2750
+},
+{
+  "_id": {
+    "$oid": "6a0b3f400c0486129e3a2fbd"
+  },
+  "hospede": {
+    "hospede_id": {
+      "$oid": "6a0b3c550c0486129e3a2fbb"
+    },
+    "nome": "Miguel Bueno",
+    "email": "miguel.bueno@email.com"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fbb"
+  },
+  "data_checkin": {
+    "$date": "2026-05-01T14:00:00.000Z"
+  },
+  "data_checkout": {
+    "$date": "2026-05-05T12:00:00.000Z"
+  },
+  "status": "confirmada",
+  "valor_total_diarias": 4800
+},
+{
+  "_id": {
+    "$oid": "6a0b3f400c0486129e3a2fbe"
+  },
+  "hospede": {
+    "hospede_id": {
+      "$oid": "6a0b3bbcd3f290e64a551913"
+    },
+    "nome": "Gabriel Augusto",
+    "email": "gabriel.augusto@email.com"
+  },
+  "quarto_id": {
+    "$oid": "6a0b3c550c0486129e3a2fba"
+  },
+  "data_checkin": {
+    "$date": "2026-04-12T14:00:00.000Z"
+  },
+  "data_checkout": {
+    "$date": "2026-04-14T12:00:00.000Z"
+  },
+  "status": "finalizada",
+  "valor_total_diarias": 560
+}]

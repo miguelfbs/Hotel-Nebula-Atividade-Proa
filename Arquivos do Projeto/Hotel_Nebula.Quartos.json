@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6a0b3c550c0486129e3a2fb9"
+  },
+  "numero": 220,
+  "tipo": "Standard",
+  "preco_diaria": 200,
+  "capacidade": 2,
+  "comodidades": [
+    "wi-fi",
+    "ar-condicionado",
+    "tv a cabo"
+  ],
+  "disponivel": true
+},
+{
+  "_id": {
+    "$oid": "6a0b3c550c0486129e3a2fba"
+  },
+  "numero": 221,
+  "tipo": "Luxo",
+  "preco_diaria": 550,
+  "capacidade": 2,
+  "comodidades": [
+    "vista para o mar",
+    "banheira",
+    "luxo",
+    "frigobar premium"
+  ],
+  "disponivel": false
+},
+{
+  "_id": {
+    "$oid": "6a0b3c550c0486129e3a2fbb"
+  },
+  "numero": 222,
+  "tipo": "Presidential Suite",
+  "preco_diaria": 1200,
+  "capacidade": 4,
+  "comodidades": [
+    "vista para o mar",
+    "banheira",
+    "luxo",
+    "piscina privativa",
+    "chef exclusivo"
+  ],
+  "disponivel": true
+}]

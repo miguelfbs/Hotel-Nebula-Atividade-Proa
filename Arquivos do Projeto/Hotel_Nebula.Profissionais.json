@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "6a0b5e540c0486129e3a2fc1"
+  },
+  "nome": "Carla Mendes",
+  "cargo": "Recepcionista",
+  "departamento": "Recepção",
+  "email": "carla.mendes@hotelnebula.com",
+  "telefone": "+55 11 91111-1111",
+  "turno": {
+    "inicio": "07:00",
+    "fim": "15:00",
+    "dias": [
+      "seg",
+      "ter",
+      "qua",
+      "qui",
+      "sex"
+    ]
+  },
+  "especialidades": [
+    "check-in",
+    "atendimento VIP"
+  ],
+  "salario": 3200,
+  "ativo": true,
+  "contratado_em": {
+    "$date": "2020-03-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0b5e540c0486129e3a2fc2"
+  },
+  "nome": "Bruno Almeida",
+  "cargo": "Recepcionista",
+  "departamento": "Recepção",
+  "email": "bruno.almeida@hotelnebula.com",
+  "telefone": "+55 11 92222-2222",
+  "turno": {
+    "inicio": "15:00",
+    "fim": "23:00",
+    "dias": [
+      "seg",
+      "ter",
+      "qua",
+      "qui",
+      "sex",
+      "sab"
+    ]
+  },
+  "especialidades": [
+    "check-in",
+    "reservas",
+    "eventos"
+  ],
+  "salario": 3000,
+  "ativo": true,
+  "contratado_em": {
+    "$date": "2022-07-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0b5e540c0486129e3a2fc3"
+  },
+  "nome": "Fernanda Costa",
+  "cargo": "Governanta",
+  "departamento": "Limpeza",
+  "email": "fernanda.costa@hotelnebula.com",
+  "telefone": "+55 11 97777-7777",
+  "turno": {
+    "inicio": "06:00",
+    "fim": "14:00",
+    "dias": [
+      "seg",
+      "ter",
+      "qua",
+      "qui",
+      "sex",
+      "sab",
+      "dom"
+    ]
+  },
+  "especialidades": [
+    "limpeza VIP",
+    "gestão de equipe",
+    "controle de estoque"
+  ],
+  "salario": 3800,
+  "ativo": true,
+  "contratado_em": {
+    "$date": "2019-06-01T00:00:00.000Z"
+  }
+}]

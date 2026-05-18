@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a0b3aeed3f290e64a551910"
+  },
+  "nome": "Miguel Bueno",
+  "documento": "111.222.333-44",
+  "email": "miguel.bueno@email.com",
+  "telefone": "+55 11 98888-8888"
+},
+{
+  "_id": {
+    "$oid": "6a0b3aeed3f290e64a551911"
+  },
+  "nome": "Livia de Morais",
+  "documento": "555.666.777-88",
+  "email": "livia.morais@email.com",
+  "telefone": "+55 11 97777-7777"
+},
+{
+  "_id": {
+    "$oid": "6a0b3bbcd3f290e64a551912"
+  },
+  "nome": "Daniel Rodrigues",
+  "documento": "222.333.444-55",
+  "email": "daniel.rodrigues@email.com",
+  "telefone": "+55 11 96666-6666"
+},
+{
+  "_id": {
+    "$oid": "6a0b3bbcd3f290e64a551913"
+  },
+  "nome": "Gabriel Augusto",
+  "documento": "666.777.888-99",
+  "email": "grabriel.augusto@email.com",
+  "telefone": "+55 11 92222-2222"
+}]
